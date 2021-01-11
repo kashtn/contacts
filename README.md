@@ -25,8 +25,3 @@ You should sign up if yo want to use this app
 
 Search example:
 ![screenshot](readme-assets/Search.png)
-# takeoff-test
-# takeoff-test
-# takeoff-test
-# takeoff-test
-# takeoff-test
