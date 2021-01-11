@@ -4,7 +4,7 @@
 
 Downloads all necessary packages
 
-### `yarn start`
+### `yarn all`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -25,3 +25,5 @@ You should sign up if yo want to use this app
 
 Search example:
 ![screenshot](readme-assets/Search.png)
+
+## Use with pleaure!
