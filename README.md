@@ -23,7 +23,7 @@ You should sign up if yo want to use this app
 - You can find a contact
 - You can delete a contact
 
-##Search example:
+## Search example:
 ![screenshot](readme-assets/Search.png)
 
 ## Use with pleasure!
